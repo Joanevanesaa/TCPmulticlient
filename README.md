@@ -7,5 +7,5 @@ Socket programming adalah pemrograman yang digunakan untuk melakukan pertukaran 
 Protokol yang digunakan dalam program ini adalah TCP.
 
 # Flowchart
-https://user-images.githubusercontent.com/72459313/124767019-a223a980-df61-11eb-9ec9-89efa315b2a3.png
+![Flowchart MultiChat](https://user-images.githubusercontent.com/72459313/124767019-a223a980-df61-11eb-9ec9-89efa315b2a3.png)
 # Output
