@@ -6,9 +6,9 @@ Repository ini berisi multiclient socket programming untuk windows dengan bahasa
 Socket programming adalah pemrograman yang digunakan untuk melakukan pertukaran data. Dalam program ini, terdapat server yang dapat menampung banyak client (multi-client thread).
 Protokol yang digunakan dalam program ini adalah TCP (transmission control protocol).
 
-Untuk menjalankan program ada hal yang harus diperhatikan:
-    1. Jalankan server terlebih dahulu, setelah itu menjalankan client.
-    2. Masukan nickname yang akan disimpan sebagai nama client.
+#Untuk menjalankan program ada hal yang harus diperhatikan:
+#    1. Jalankan server terlebih dahulu, setelah itu menjalankan client.
+#   2. Masukan nickname yang akan disimpan sebagai nama client.
 
 
 # Flowchart
