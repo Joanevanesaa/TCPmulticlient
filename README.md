@@ -7,7 +7,7 @@ Socket programming adalah pemrograman yang digunakan untuk melakukan pertukaran 
 Protokol yang digunakan dalam program ini adalah TCP (transmission control protocol).
 
 Untuk menjalankan program ada hal yang harus diperhatikan:
-    1. Jalankan server terlebih dahulu, setelah itu menjalankan client
+    1. Jalankan server terlebih dahulu, setelah itu menjalankan client.
     2. Masukan nickname yang akan disimpan sebagai nama client.
 
 
